@@ -1,5 +1,4 @@
 async function mulainama() {
-window.location.replace("wa.me/6285869074622");
 
            kadoIn.style="display:none";ket.style="display:none";
            Content.style = "opacity:1;margin-top:2vh";
